@@ -6,6 +6,5 @@ function removeByValue(arr, value) {
       i--;
     }
   }
-
   return arr;
 }
